@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rajashree</h1>
+## Hello! 🙏🏽
+
 <h3 align="center">QA Analyst | Automating Tests, Enhancing Software Quality</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajashreey841&label=Profile%20views&color=0e75b6&style=flat" alt="rajashreey841" /> </p>
@@ -12,13 +13,6 @@ Software Test Engineer with over 3 years of hands-on experience in both manual a
 - 📫 How to reach me **rajashreey841@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/rajashreey841/Resume/blob/master/Resume_Rajashree.pdf](https://github.com/rajashreey841/Resume/blob/master/Resume_Rajashree.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rajashreey841/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajashreey841/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/rajashreey841" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rajashreey841" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/rajashreey841/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rajashreey841/" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -40,6 +34,13 @@ Software Test Engineer with over 3 years of hands-on experience in both manual a
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajashreey841&show_icons=true&locale=en&layout=compact" alt="rajashreey841" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rajashreey841/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajashreey841/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/rajashreey841" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rajashreey841" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/rajashreey841/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rajashreey841/" height="30" width="40" /></a>
+</p>
 
 <!--
 **rajashreey841/rajashreey841** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

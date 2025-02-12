@@ -38,7 +38,7 @@ Software Test Engineer with over 3 years of hands-on experience in both manual a
 <a href="https://www.linkedin.com/in/rajashreey841/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" width="80px"/></a>
 <a href="https://github.com/rajashreey841"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20px" width="80px"/></a>
 <a href="https://leetcode.com/rajashreey841"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="20px" width="80px"/></a>
-<a href="https://www.hackerrank.com/rajashreey841"> <img src="https://img.shields.io/badge/-HackerRank-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="20px" width="80px"/></a>
+<a href="https://www.hackerrank.com/rajashreey841"> <img src="[https://img.shields.io/badge/-HackerRank-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black](https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fhackerrank&psig=AOvVaw2XTesGiUahYAkQFdgXoFut&ust=1739488792110000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjM2u-iv4sDFQAAAAAdAAAAABAE)" height="20px" width="80px"/></a>
 
 <!--
 **rajashreey841/rajashreey841** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

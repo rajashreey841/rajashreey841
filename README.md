@@ -2,8 +2,6 @@
 
 <h3 align="center">QA Analyst | Automating Tests, Enhancing Software Quality</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajashreey841&label=Profile%20views&color=0e75b6&style=flat" alt="rajashreey841" /> </p>
-
 Software Test Engineer with over 3 years of hands-on experience in both manual and automated testing, specializing in Selenium WebDriver and Python. I have successfully contributed to various high-impact projects, ensuring product quality by designing and executing comprehensive test plans, automating regression tests, and implementing cross-browser testing solutions. My expertise lies in functional, integration, and API testing, along with defect tracking using tools like JIRA and Confluence.
 
 - 🌱 I’m currently learning **DevOps**

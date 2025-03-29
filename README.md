@@ -8,7 +8,7 @@ Software Test Engineer with over 3 years of hands-on experience in both manual a
 
 - 📫 How to reach me **rajashreey841@gmail.com**
 
-- 📄 Know about my experiences: https://github.com/rajashreey841/Resume/blob/master/Resume_Rajashree.pdf
+- 📄 Know about my experiences: https://github.com/rajashreey841/Resume
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

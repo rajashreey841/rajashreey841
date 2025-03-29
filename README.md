@@ -8,8 +8,8 @@ Software Test Engineer with over 3 years of hands-on experience in both manual a
 
 - 📫 How to reach me **rajashreey841@gmail.com**
 
-- 📄 Know about my experiences: <a href="https://github.com/rajashreey841/Resume/blob/master/Resume_Rajashree.pdf/"> <img src=https://img.shields.io/badge/-RESUME-#FF0000
-?style=for-the-badge&logo=LeetCode&logoColor=black" height="20px" width="80px"/></a>
+- 📄 Know about my experiences: <a href="https://github.com/rajashreey841/Resume/blob/master/Resume_Rajashree.pdf/"> <img src="https://img.shields.io/badge/-RESUME-#FF0000
+?style=for-the-badge&logo=RESUME&logoColor=black" height="20px" width="80px"/></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

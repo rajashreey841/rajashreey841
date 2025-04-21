@@ -1,4 +1,4 @@
-## Hello! 🙏🏽
+# Hello! 🙏🏽
 
 <h3 align="center">QA Analyst | Automating Tests, Enhancing Software Quality</h3>
 

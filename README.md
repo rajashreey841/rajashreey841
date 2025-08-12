@@ -15,7 +15,7 @@ resident seeking testing opportunities in the Canadian tech industry.
 
 <h3 align="left">Languages and Tools:</h3>
 
-• TECHNICAL SKILLS - Programming: Python, SQL
+<h2>• TECHNICAL SKILLS - Programming: Python, SQL</h2>
 • Test Automation: Selenium WebDriver, Robot Framework, Pytest, UnitTest.
 • Testing Types: Functional, Regression, Integration, API, E2E, UAT
 • Methodologies: Agile/Scrum, SDLC/STLC, Test-Driven Development

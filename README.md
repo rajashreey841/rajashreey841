@@ -14,7 +14,16 @@ resident seeking testing opportunities in the Canadian tech industry.
 - 📄 Know about my experiences: https://github.com/rajashreey841/Resume
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+
+• TECHNICAL SKILLS - Programming: Python, SQL
+• Test Automation: Selenium WebDriver, Robot Framework, Pytest, UnitTest.
+• Testing Types: Functional, Regression, Integration, API, E2E, UAT
+• Methodologies: Agile/Scrum, SDLC/STLC, Test-Driven Development
+• CI/CD & DevOps: Jenkins, Git, AWS Cloud Services
+• Test Management: Jira, Confluence, QTest, Postman
+• Platforms: Windows, Linux, Unix, iOS, Android
+• Web Technologies: REST APIs, XML, JSON, HTTP/HTTPS protocols
+<!-- <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80px" height="20px"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -29,7 +38,7 @@ resident seeking testing opportunities in the Canadian tech industry.
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p> -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajashreey841&show_icons=true&locale=en&layout=compact" alt="rajashreey841" /></p>
 

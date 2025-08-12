@@ -15,14 +15,14 @@ resident seeking testing opportunities in the Canadian tech industry.
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h5>• TECHNICAL SKILLS - Programming: Python, SQL</h5>
+<h5>• Programming: Python, SQL</h5>
 <h5>• Test Automation: Selenium WebDriver, Robot Framework, Pytest, UnitTest.</h5>
-• Testing Types: Functional, Regression, Integration, API, E2E, UAT
-• Methodologies: Agile/Scrum, SDLC/STLC, Test-Driven Development
-• CI/CD & DevOps: Jenkins, Git, AWS Cloud Services
-• Test Management: Jira, Confluence, QTest, Postman
-• Platforms: Windows, Linux, Unix, iOS, Android
-• Web Technologies: REST APIs, XML, JSON, HTTP/HTTPS protocols
+<h5>• Testing Types: Functional, Regression, Integration, API, E2E, UAT.</h5>
+<h5>• Methodologies: Agile/Scrum, SDLC/STLC, Test-Driven Development.</h5>
+<h5>• CI/CD & DevOps: Jenkins, Git, AWS Cloud Services.</h5>
+<h5>• Test Management: Jira, Confluence, QTest, Postman.</h5>
+<h5>• Platforms: Windows, Linux, Unix, iOS, Android.</h5>
+<h5>• Web Technologies: REST APIs, XML, JSON, HTTP/HTTPS protocols.</h5>h5>
 <!-- <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80px" height="20px"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>

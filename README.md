@@ -2,7 +2,10 @@
 
 <h3 align="center">QA Analyst | Automating Tests, Enhancing Software Quality</h3>
 
-Software Test Engineer with over 3 years of hands-on experience in both manual and automated testing, specializing in Selenium WebDriver and Python. I have successfully contributed to various high-impact projects, ensuring product quality by designing and executing comprehensive test plans, automating regression tests, and implementing cross-browser testing solutions. My expertise lies in functional, integration, and API testing, along with defect tracking using tools like JIRA and Confluence and test management tool like qtest.
+Software Test Engineer with 3+ years of experience in manual and automated testing for web and mobile applications.
+Reduced manual testing efforts by 40% through automation while maintaining comprehensive test coverage.
+Experienced in full software development lifecycle, CI/CD pipelines, and working with Agile teams. Canadian permanent
+resident seeking testing opportunities in the Canadian tech industry.
 
 - 👨‍💻 All of my projects are available at [https://github.com/rajashreey841](https://github.com/rajashreey841)
 
